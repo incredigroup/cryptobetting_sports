@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/components/*": ["components/*"],
+      "@/lib/*": ["lib/*"],
+      "@/middlewares/*": ["middlewares/*"],
+      "@/hooks/*": ["hooks/*"],
+      "@/db/*": ["db/*"],
+      "@/abis/*": ["abis/*"],
+      "@/consts/*": ["consts/*"]
+    }
+  }
+}
